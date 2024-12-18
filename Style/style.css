@@ -519,6 +519,7 @@ html {
 .aboutus {
     background-color: #f8f8f8;
     overflow: hidden;
+    min-height: 100vh;
 }
 
 .heading .aboutus-title {
